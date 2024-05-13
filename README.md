@@ -21,11 +21,8 @@ The primary objective of this call for proposals is to facilitate advancements i
 - Data Source Discovery: Reduce the time and effort in identifying and recommending relevant data sources. Potential solutions include data source catalogs, metadata generation, and recommendation systems. 
 - Federated Data Integration: Technologies that map and stitch together schemas from different sources, uncover data-centric connection points (e.g., value profiling and identifier types), and related methods.
 
-## Call for Proposal ##
-To be Announced soon.
-
 ## Agenda ##
-The agenda can be found [here]([agenda.md](https://github.com/MaastrichtU-IDS/FedQuery2024/blob/7d4ccfa7ea9fd29f3c221a89281ae86d6ed8e98e/agenda.md)).
+The agenda can be found [here](https://github.com/MaastrichtU-IDS/FedQuery2024/blob/7d4ccfa7ea9fd29f3c221a89281ae86d6ed8e98e/agenda.md).
 
 ## Registration ##
 The participants have been invited by the organizers. Participants whose participation is funded by the DKG COST Action will receive an official invitation email from the Action and will need to accept that invitation by logging in to the [COST portal](http://e-services.cost.eu/). To this end, they need to create an account at the portal, unless they already have one (which should be the case for all members of working groups of the Action). 
