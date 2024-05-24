@@ -5,7 +5,10 @@
 
 
 **Event Time**: 26th-28th June 2024 \
-**Location**: [Campus de Teatinos (Ampliacion Campus de Teatinos) of the University of Málaga](), Malaga, Spain \
+**Location**: The ADA BYRON building is located in front of “Facultad de Ciencias de la Salud / Enfermería”, in the new area of the Campus de Teatinos (Ampliacion Campus de Teatinos) of the University of Málaga （Spain). 
+- [Google location](https://www.google.com/maps/place/Edificio+de+Investigaci%C3%B3n+Ada+Byron/@36.716725,-4.499842,15z/data=!4m5!3m4!1s0x0:0x1032cecb86235596!8m2!3d36.716725!4d-4.499842)
+- More practical information can be found [here]()
+
 
 **Sponsor**: Thanks to [COST](https://www.cost.eu/) and, in particular, the [DKG COST Action](https://cost-dkg.eu/) for sponsoring this workshop.
 **This repository** is used to post event information, to share use case material, data description and access, query engine information and configuration files, code, and to document the progress and outcome of the event. 
