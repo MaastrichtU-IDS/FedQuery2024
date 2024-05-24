@@ -9,6 +9,7 @@
 - [Google location](https://www.google.com/maps/place/Edificio+de+Investigaci%C3%B3n+Ada+Byron/@36.716725,-4.499842,15z/data=!4m5!3m4!1s0x0:0x1032cecb86235596!8m2!3d36.716725!4d-4.499842)
 - More practical information can be found [here](https://github.com/MaastrichtU-IDS/FedQuery2024/blob/main/Malaga-Venue-Indications-2024.pdf)
 
+**Meals & Social Event**: To better plan our meals and social events, we would like to invite our invited participants to fill in [this form](https://forms.gle/VUcPwT1zNijpzx9XA) before 19 June 2024
 
 **Sponsor**: Thanks to [COST](https://www.cost.eu/) and, in particular, the [DKG COST Action](https://cost-dkg.eu/) for sponsoring this workshop.
 **This repository** is used to post event information, to share use case material, data description and access, query engine information and configuration files, code, and to document the progress and outcome of the event. 
@@ -32,10 +33,12 @@ The participants have been invited by the organizers. Participants whose partici
 
 ### Transportation ###
 Metro and buses are very convenient in Malaga city and between airport to the city center as well.
+More practical information can be found [here](https://github.com/MaastrichtU-IDS/FedQuery2024/blob/main/Malaga-Venue-Indications-2024.pdf)
+
 
 ### Accommodation ###
 For participants funded by the COST Action, the expenses for accommodation are included in the daily allowance. Please note that the daily allowance includes your hotel stays and meals. 
-
+More practical information can be found [here](https://github.com/MaastrichtU-IDS/FedQuery2024/blob/main/Malaga-Venue-Indications-2024.pdf)
 
 ### Reimbursement ###
 It is **very important** to sign the attendance sheet every single day when you are in the workshop. This is required for us to get the funding from the COST Action and, for participants reimbursed by that funding, to get their reimbursement.
