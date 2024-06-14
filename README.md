@@ -25,6 +25,16 @@ The primary objective of this call for proposals is to facilitate advancements i
 - Data Source Discovery: Reduce the time and effort in identifying and recommending relevant data sources. Potential solutions include data source catalogs, metadata generation, and recommendation systems. 
 - Federated Data Integration: Technologies that map and stitch together schemas from different sources, uncover data-centric connection points (e.g., value profiling and identifier types), and related methods.
 
+## Accepted Projects ##
+1. Discovery of Heterogeneous Interfaces in Decentralized Environments
+2. Integrating federated RDF data by defining subsets using shapes
+3. Enhancing Precision and Flexibility in Federated Question-to-SPARQL Translation
+4. Explaining Federated SPARQL Queries with How-Provenance
+5. Improving the discoverability of distributed knowledge graphs through automated metadata generation
+6. Towards Federated Visual Queries
+7. Overview-based exploration of linked datasets using SPARQL
+8. Leveraging BioDataFuse for Enhanced Query Processing
+
 ## Agenda ##
 The agenda can be found [here](https://github.com/MaastrichtU-IDS/FedQuery2024/blob/7d4ccfa7ea9fd29f3c221a89281ae86d6ed8e98e/agenda.md).
 
