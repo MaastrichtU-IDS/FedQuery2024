@@ -1,5 +1,5 @@
 ## Workshop agenda (26-28 June 2024) ##
-Please indicate your dietary restriction and your participation in dinner and social activities in this [**ToBeUpdated**]()
+Check the logistic info here [INFO](https://drive.google.com/file/d/1azNV4qJJNjp9HH7K-q9z1mIHS75hhbC_/view)
 
 Please note that all times indicated are in local time zone (CEST).
 
@@ -16,7 +16,7 @@ Please note that all times indicated are in local time zone (CEST).
 |16:30|17:15|00:45|:speech_balloon: Group Interaction|Interact with other groups to discuss challenges, issues, approaches, etc. We will have 3 rounds, 15 mins per round to interact with different groups. We will prepare a white board (physical or digital) where you can post your discussion points before this session. |
 |17:15|17:30|00:15|:clap: Wrap Up| Wrap up the day |
 |17:30|18:45|01:15|:high_brightness: Free Time| You are FREE! Enjoy! |
-|18:45|-|-|:cityscape: City Tour + causal dinner|You can go for dinner with the group (Please fill the [**ToBeUpdated**]() if you feel like to join). Everyone will pay for their own dinner. For participants whose trip is funded by the COST Action, meals are included in your daily allowance.|
+|18:45|-|-|:cityscape: City Tour + causal dinner|Meet at [Calle Larios](https://maps.app.goo.gl/A2yxoGCSEX1USSXFA). Everyone will pay for their own dinner. For participants whose trip is funded by the COST Action, meals are included in your daily allowance.|
 
 
 ### DAY 2 - 27 June ###
