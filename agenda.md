@@ -30,7 +30,7 @@ Please note that all times indicated are in local time zone (CEST).
 |16:00|16:30|00:30|:coffee: Break| Afternoon coffee break and socializing |
 |16:30|17:30|01:00|:computer: Working|Intense work session with your group.|
 |17:30|17:45|00:15|:clap: Wrap Up| Wrap up the day |
-|19:15|-|-|:shallow_pan_of_food:Dinner|We will take a bus and have dinner outside of the city. Please be on time (**19:15**).|
+|19:15|-|-|:shallow_pan_of_food: Dinner|We will take a bus and have dinner outside of the city. Bus departure **19:15** from Teatro del Soho, Calle Córdoba https://maps.app.goo.gl/YXpLm3bwjUVA1VHL8. We will be at Wanda restaurant (Torremolinos). Return time 23:00 - 23:30 Teatro del Soho|
 
 
 ### DAY 3 - 28 June ###
